@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master
-      - dev
+      - custom
       - v*
       - beta-v*
       - release/*
